@@ -5,7 +5,7 @@
   window.SITE_CONFIG = {}
 
   // api接口请求地址
-  window.SITE_CONFIG['baseUrl'] = 'http://mall4j-admin.gz-yami.com/apis'
+  window.SITE_CONFIG['baseUrl'] = 'http://www.aihtt.com/apis'
   // 静态资源文件url
   window.SITE_CONFIG['resourcesUrl'] = 'http://pxx09lrrj.bkt.clouddn.com/'
   // cdn地址 = 域名 + 版本号
